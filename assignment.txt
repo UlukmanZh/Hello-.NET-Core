@@ -1,0 +1,3 @@
+PS C:\Users\uakma\Documents\cSharpStack\newProject> dotnet run
+Hello World!
+PS C:\Users\uakma\Documents\cSharpStack\newProject> 

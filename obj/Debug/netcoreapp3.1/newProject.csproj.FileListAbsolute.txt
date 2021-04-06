@@ -1,0 +1,13 @@
+C:\Users\uakma\Documents\cSharpStack\newProject\bin\Debug\netcoreapp3.1\newProject.exe
+C:\Users\uakma\Documents\cSharpStack\newProject\bin\Debug\netcoreapp3.1\newProject.deps.json
+C:\Users\uakma\Documents\cSharpStack\newProject\bin\Debug\netcoreapp3.1\newProject.runtimeconfig.json
+C:\Users\uakma\Documents\cSharpStack\newProject\bin\Debug\netcoreapp3.1\newProject.runtimeconfig.dev.json
+C:\Users\uakma\Documents\cSharpStack\newProject\bin\Debug\netcoreapp3.1\newProject.dll
+C:\Users\uakma\Documents\cSharpStack\newProject\bin\Debug\netcoreapp3.1\newProject.pdb
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.csprojAssemblyReference.cache
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.AssemblyInfoInputs.cache
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.AssemblyInfo.cs
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.csproj.CoreCompileInputs.cache
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.dll
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.pdb
+C:\Users\uakma\Documents\cSharpStack\newProject\obj\Debug\netcoreapp3.1\newProject.genruntimeconfig.cache
